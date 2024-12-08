@@ -1,0 +1,54 @@
+{
+    "items": {
+        "placeholder_item": {
+            "base": {
+                "id": 0,
+                "name": "placeholder",
+                "type": "generic",
+                "price": 0,
+                "stock": 0,
+                "event": "none"
+            }
+        },
+        
+
+        "generic_item_test_1": {
+            "base": {
+                "id": 1,
+                "name": "test item 1",
+                "type": "generic",
+                "price": 1,
+                "stock": 5,
+                "event": "none"
+            }
+        },
+
+        "generic_item_test_2": {
+            "base": {
+                "id": 2,
+                "name": "test item 2",
+                "type": "generic",
+                "price": 2,
+                "stock": 5,
+                "event": "none"
+            }
+        },
+
+
+        "consumable_item_test_1": {
+            "base": {
+                "id": 3,
+                "name": "test item 3",
+                "type": "consumable",
+                "price": 3,
+                "stock": 5,
+                "event": "none"
+            },
+            "consumable": {
+                "buff_class": "buff_balance",
+                "max_consume": 5
+                
+            }
+        }
+    }
+}

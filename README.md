@@ -1,5 +1,5 @@
 # public.MachineDweeb 
-#### (PRELAUNCH) Post-Split Version 0.004
+#### (PRELAUNCH) Post-Split Version 0.026
 
 ## Project Description
 - Public repository for MachineDweeb.
